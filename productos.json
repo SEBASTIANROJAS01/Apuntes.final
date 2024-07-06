@@ -1,0 +1,77 @@
+[
+    {
+        "nombre": "Caf\u00e9 Americano",
+        "valor": 7400,
+        "iva": 1406
+    },
+    {
+        "nombre": "T\u00e9 Chai",
+        "valor": 2600,
+        "iva": 494
+    },
+    {
+        "nombre": "Croissant",
+        "valor": 9300,
+        "iva": 1767
+    },
+    {
+        "nombre": "Jugo Naranja",
+        "valor": 8300,
+        "iva": 1577
+    },
+    {
+        "nombre": "Panini de Pavo y Queso",
+        "valor": 5400,
+        "iva": 1026
+    },
+    {
+        "nombre": "Pastel de Zanahoria",
+        "valor": 3500,
+        "iva": 665
+    },
+    {
+        "nombre": "Espresso Doble",
+        "valor": 9800,
+        "iva": 1862
+    },
+    {
+        "nombre": "Ba;do de Frutas",
+        "valor": 8300,
+        "iva": 1577
+    },
+    {
+        "nombre": "Muffin",
+        "valor": 5900,
+        "iva": 1121
+    },
+    {
+        "nombre": "Ensalada",
+        "valor": 4900,
+        "iva": 931
+    },
+    {
+        "nombre": "Chocolate Caliente",
+        "valor": 9500,
+        "iva": 1805
+    },
+    {
+        "nombre": "Tarta de Frambuesa",
+        "valor": 3400,
+        "iva": 646
+    },
+    {
+        "nombre": "S\u00e1ndwich de Huevo",
+        "valor": 6200,
+        "iva": 1178
+    },
+    {
+        "nombre": "Galletas de Avena",
+        "valor": 7400,
+        "iva": 1406
+    },
+    {
+        "nombre": "Frapp\u00e9 de Caramelo",
+        "valor": 9600,
+        "iva": 1824
+    }
+]
